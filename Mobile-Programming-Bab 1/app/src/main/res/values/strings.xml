@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kodingppb</string>
+    <string name="article_title">Perang Rusia vs Ukraina</string>
+    <string name="article_subtitle">Radio Nasional Selandia Baru Selidiki Artikel Pro-Rusia, Diduga Diedit Karyawan</string>
+    <string name="article_text">
+        <b>Jakarta, 10 Juni 2023</b> - Radio nasional Selandia Baru sedang melakukan penyelidikan internal setelah muncul bukti bahwa seorang karyawan telah mengedit laporan kawat tentang perang Ukraina untuk menambahkan ungkapan yang ramah Rusia. RNZ yang didanai negara, atau Radio Selandia Baru, menerbitkan setidaknya empat artikel yang dikaitkan dengan layanan kawat Reuters yang telah diedit untuk menambahkan ungkapan pro-Kremlin. Artikel-artikel tersebut membuat berbagai perubahan: menambahkan kata "kudeta" untuk menggambarkan revolusi Maidan; mengubah deskripsi mantan "presiden pro-Rusia" Ukraina menjadi "pemerintah terpilih pro-Rusia"; menambahkan referensi ke "pemerintah pro-barat" yang telah "menekan etnis Rusia".
+    </string>
+</resources>
